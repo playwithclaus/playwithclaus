@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Paolo@playwithclaus
 - 👀 I like to invent educational toys
-- 🌱 I’m currently learning python
-- 💞️ I’m looking for contributors for new inventions
+- 🌱 I’m currently developing my first educational toy
 - 📫 How to reach me bernardi.it@gmail.com
 
 <!---
